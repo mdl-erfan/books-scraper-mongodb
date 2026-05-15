@@ -23,7 +23,6 @@ A web scraping project that collects book data from [books.toscrape.com](http://
 | `scrape.py` | Scrapes the website and saves data to MongoDB |
 | `analysis.py` | Runs queries on MongoDB and prints the results |
 | `requirements.txt` | List of Python packages needed |
-| `ai_prompts.txt` | Prompts used with AI tools during development |
 | `.env` | Your MongoDB connection string (not shared) |
 
 ---
