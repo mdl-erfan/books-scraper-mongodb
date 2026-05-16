@@ -29,7 +29,7 @@ A web scraping project that collects book data from [books.toscrape.com](http://
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.9 or higher
 - A MongoDB Atlas account (free tier is fine) — [Sign up here](https://www.mongodb.com/cloud/atlas)
 
 ---
